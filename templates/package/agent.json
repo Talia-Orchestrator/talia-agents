@@ -1,0 +1,7 @@
+{
+  "name": "Example Agent",
+  "version": "1.0.0",
+  "description_en": "Describe the agent's supported outcome and limits.",
+  "workflow": "### Work\n- Identify the requested outcome and constraints.\n- Produce the requested result and state relevant uncertainty.\n",
+  "skill_list": []
+}

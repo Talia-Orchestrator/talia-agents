@@ -1,0 +1,9 @@
+{
+  "id": "talia-agents/example-agent",
+  "kind": "agent",
+  "version": "1.0.0",
+  "name": "Example Agent",
+  "description": "Describe the agent's supported outcome and limits.",
+  "publisher": "talia-agents",
+  "license": "MIT"
+}
