@@ -6,6 +6,6 @@ The official store publishes exactly ten canonical specialists. `assistant` and 
 
 Shared skill references use namespaced IDs declared in each agent package's dependencies. Private agent skills remain bundled under `skills/<id>/`.
 
-Repository: https://github.com/Talia-orchestator/talia-agents
+Repository: https://github.com/Talia-Orchestrator/talia-agents
 
 Run npm test to validate package metadata and shared skill dependencies against the public skills repository and store packer. Pull requests use the same secrets-free check.
