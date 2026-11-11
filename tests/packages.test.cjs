@@ -25,3 +25,13 @@ test('source keeps all legacy agents while including the published development t
   assert.ok(fs.existsSync(path.join(root, 'ecommerceresearcher', 'agent.json')));
   assert.ok(fs.existsSync(path.join(root, 'ecommerce-researcher', 'agent.json')));
 });
+
+
+test('UIDesigner declares its shared Impeccable dependency with matching versions', () => {
+  const dir = path.join(root, 'uidesigner');
+  const metadata = JSON.parse(fs.readFileSync(path.join(dir, 'talia-extension.json'), 'utf8'));
+  const agent = JSON.parse(fs.readFileSync(path.join(dir, 'agent.json'), 'utf8'));
+  assert.equal(metadata.version, agent.version);
+  assert.ok(agent.skill_list.includes('talia-skills/impeccable-ui'));
+  assert.ok(metadata.dependencies.some(item => item.kind === 'skill' && item.id === 'talia-skills/impeccable-ui'));
+});
