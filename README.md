@@ -2,7 +2,7 @@
 
 Public, declarative Talia agent packages. Package sources live in `packages/`; a package has `talia-extension.json`, `agent.json`, and any private skill assets it owns.
 
-The official store publishes exactly ten canonical specialists. `assistant` and `general-researcher` are source packages bundled by Talia desktop for fresh profiles; they do not appear in the public catalog. The remaining legacy agent packages are kept here for reference and compatibility but are not advertised in the official store catalog. Existing installs are not removed by adding or publishing a package.
+The official store publishes fifteen specialists, including the development team described in [DEVELOPMENT-TEAM.md](DEVELOPMENT-TEAM.md). `assistant` and `general-researcher` are source packages bundled by Talia desktop for fresh profiles; they do not appear in the public catalog. Other legacy agent packages are kept here for reference and compatibility but are not advertised in the official store catalog. Existing installs are not removed by adding or publishing a package.
 
 Shared skill references use namespaced IDs declared in each agent package's dependencies. Private agent skills remain bundled under `skills/<id>/`.
 

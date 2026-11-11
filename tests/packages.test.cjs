@@ -5,8 +5,8 @@ const test = require('node:test');
 const assert = require('node:assert/strict');
 const root = path.resolve(__dirname, '..', 'packages');
 const dirs = fs.readdirSync(root).filter(name => fs.statSync(path.join(root, name)).isDirectory()).sort();
-const canonical = ['contentwriter', 'deepresearcher', 'ecommerce-researcher', 'imagestudio', 'officeworker', 'pptmaker', 'productdeveloper', 'seogeoagent', 'uidesigner', 'videostudio'];
-test('source keeps all legacy agents while naming exactly ten canonical specialists', () => {
+const canonical = ['app-architetto', 'app-frontend', 'app-backend', 'app-devops', 'app-e2e-tester', 'contentwriter', 'deepresearcher', 'ecommerce-researcher', 'imagestudio', 'officeworker', 'pptmaker', 'productdeveloper', 'seogeoagent', 'uidesigner', 'videostudio'];
+test('source keeps all legacy agents while including the published development team specialists', () => {
   assert.equal(dirs.length, 24);
   for (const name of [...canonical, 'assistant', 'general-researcher']) assert.ok(dirs.includes(name));
   const ids = new Set();
