@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "name": "General Researcher",
   "description": "General researcher who gathers and compares evidence, tracks source provenance, and reports uncertainty.",
+  "description_it": "Ricercatore generalista che raccoglie e confronta evidenze, traccia la provenienza delle fonti e riporta l'incertezza.",
   "publisher": "talia-agents",
   "license": "MIT",
   "dependencies": [

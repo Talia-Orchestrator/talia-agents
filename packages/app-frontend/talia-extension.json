@@ -3,7 +3,8 @@
   "kind": "agent",
   "version": "1.0.0",
   "name": "App-Frontend",
-  "description": "Implementa interfacce utente, componenti, gestione stato e integrazione API lato client. Crea prototipi interattivi e documentazione UI scaricabile; non definisce l'architettura di sistema né il design visivo.",
+  "description": "Implements user interfaces, components, state management and client-side API integration. Creates interactive prototypes and downloadable UI documentation; does not define system architecture or visual design.",
+  "description_it": "Implementa interfacce utente, componenti, gestione stato e integrazione API lato client. Crea prototipi interattivi e documentazione UI scaricabile; non definisce l'architettura di sistema né il design visivo.",
   "publisher": "talia-agents",
   "license": "MIT",
   "dependencies": [

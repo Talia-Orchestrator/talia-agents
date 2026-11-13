@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "name": "Assistant",
   "description": "General-purpose assistant for planning, writing, analysis, and practical follow-through.",
+  "description_it": "Assistente generalista per pianificazione, redazione, analisi e seguiti pratici.",
   "publisher": "talia-agents",
   "license": "MIT",
   "dependencies": [

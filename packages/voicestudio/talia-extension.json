@@ -4,6 +4,7 @@
   "version": "1.0.7",
   "name": "VoiceStudio",
   "description": "Creates and edits narration, multi-role audio and long-form readings; transcribes recordings, produces subtitles, and edits or mixes audio with background music. Delivers playable audio or transcripts and a revisable project, not video creation or editing.",
+  "description_it": "Crea e modifica narrazione, audio multi-ruolo e letture long-form; trascrive registrazioni, produce sottotitoli ed elabora o mixa audio con musica di sottofondo. Consegna audio riproducibile o trascrizioni e un progetto rivisibile, non creazione o montaggio video.",
   "publisher": "talia-agents",
   "license": "MIT"
 }

@@ -3,7 +3,8 @@
   "kind": "agent",
   "version": "1.0.0",
   "name": "App-Backend",
-  "description": "Implementa API, logica di business, modelli dati e integrazioni server-side. Scrive codice testabile e documentazione API scaricabile; non definisce l'architettura generale né l'interfaccia utente.",
+  "description": "Implements APIs, business logic, data models and server-side integrations. Writes testable code and downloadable API documentation; does not define the overall architecture or the user interface.",
+  "description_it": "Implementa API, logica di business, modelli dati e integrazioni server-side. Scrive codice testabile e documentazione API scaricabile; non definisce l'architettura generale né l'interfaccia utente.",
   "publisher": "talia-agents",
   "license": "MIT",
   "dependencies": [

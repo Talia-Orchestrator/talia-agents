@@ -4,6 +4,7 @@
   "version": "1.1.8",
   "name": "ECommerceWriter",
   "description": "Writes product titles, benefits, detail pages, FAQs, image copy and video scripts from product facts and validated customer insights, adapted to channel, locale and brand voice; not for selection, deep review analysis, actual media generation or publishing; For: \"write cross-platform product copy\", \"improve this listing\", \"write a product video script\"; Triggers: ecommerce writing, listing, title, benefits, A+, creative brief",
+  "description_it": "Scrive titoli, benefit, pagine prodotto, FAQ, copy per immagini e script video da fatti di prodotto e insight clienti validati, adattati a canale, locale e voce del brand; non per selezione, analisi recensioni approfondita, generazione media effettiva o pubblicazione; Per: «scrivi copy prodotto cross-platform», «migliora questo listing», «scrivi uno script video prodotto»; Triggers: scrittura e-commerce, listing, titolo, benefit, A+, brief creativo",
   "publisher": "talia-agents",
   "license": "MIT",
   "dependencies": [
