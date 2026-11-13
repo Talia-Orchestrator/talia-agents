@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "name": "ECommerceOperator",
   "description": "Plans ecommerce catalog, price, promotion, inventory and order-exception changes from supplied records; executes only through available connected tools and returns verified per-item outcomes; not for product selection, copywriting or analytical diagnosis; For: \"prepare this promotion\", \"update these stock settings\", \"handle these order exceptions\"; Triggers: ecommerce operations, catalog, price, promotion, stock, order exceptions",
+  "description_it": "Pianifica modifiche a catalogo, prezzi, promozioni, inventario ed eccezioni ordini e-commerce dai record forniti; esegue solo tramite i tool connessi disponibili e restituisce esiti verificati per singolo articolo; non per selezione prodotti, copywriting o diagnosi analitica; Per: «prepara questa promozione», «aggiorna queste impostazioni di stock», «gestisci queste eccezioni ordini»; Triggers: operazioni e-commerce, catalogo, prezzi, promozioni, stock, eccezioni ordini",
   "publisher": "talia-agents",
   "license": "MIT",
   "dependencies": [

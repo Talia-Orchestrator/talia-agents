@@ -4,6 +4,7 @@
   "version": "1.1.4",
   "name": "ECommerceResearcher",
   "description": "Selects ecommerce products for merchant budgets, markets and sourcing constraints; compares demand, competition and unit economics to deliver candidates, rejection reasons and validation plans; not for operating-performance analysis, deep VOC or copywriting; For: \"choose my next product\", \"compare these product opportunities\", \"validate this category\"; Triggers: product selection, category opportunity, competitors, sourcing, unit economics",
+  "description_it": "Seleziona prodotti e-commerce per budget, mercati e vincoli di sourcing dei merchant; confronta domanda, concorrenza ed economie unitarie per consegnare candidati, motivi di scarto e piani di validazione; non per analisi di performance operativa, VOC approfondita o copywriting; Per: «scegli il mio prossimo prodotto», «confronta queste opportunità di prodotto», «valida questa categoria»; Triggers: selezione prodotti, opportunità di categoria, concorrenti, sourcing, economie unitarie",
   "publisher": "talia-agents",
   "license": "MIT",
   "dependencies": [

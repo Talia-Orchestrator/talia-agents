@@ -4,6 +4,7 @@
   "version": "1.1.1",
   "name": "ECommerceReviewer",
   "description": "Analyzes product reviews, ratings, follow-ups, competitor feedback, support feedback, and public social reputation to deliver evidence-backed VOC themes, negative-review root causes, and page, support, or creative priorities; not for product selection or full listing rewrite; For: \"analyze negative-review causes\", \"summarize VOC\", \"compare competitor feedback\"; Triggers: review analysis, VOC, negative-review root cause, pain clusters, competitor feedback, support feedback",
+  "description_it": "Analizza recensioni, rating, follow-up, feedback di concorrenti e supporto e reputazione social pubblica per consegnare temi VOC con evidenze, cause di radice delle recensioni negative e priorità di pagina, supporto o creative; non per selezione prodotti o riscrittura completa dei listing; Per: «analizza le cause delle recensioni negative», «riassumi il VOC», «confronta il feedback dei concorrenti»; Triggers: analisi recensioni, VOC, cause di radice recensioni negative, cluster di dolore, feedback concorrenti, feedback supporto",
   "publisher": "talia-agents",
   "license": "MIT",
   "dependencies": [

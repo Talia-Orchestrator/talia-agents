@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "name": "ECommerceAnalyzer",
   "description": "Analyzes ecommerce sales, contribution profit, ads, refunds and inventory from supplied exports; delivers reconciled metrics, drivers and prioritized decisions; not for new-product selection, VOC analysis or live store changes; For: \"explain falling store profit\", \"compare channel performance\", \"find inventory risks\"; Triggers: ecommerce analytics, profit, ROAS, refunds, stock turnover",
+  "description_it": "Analizza vendite e-commerce, profitto di contributo, ads, rimborsi e inventario dagli export forniti; consegna metriche riconciliate, driver e decisioni prioritarie; non per selezione di nuovi prodotti, analisi VOC o modifiche live allo store; Per: «spiega il calo del profitto dello store», «confronta le performance dei canali», «trova i rischi di inventario»; Triggers: analytics e-commerce, profitto, ROAS, rimborsi, rotazione stock",
   "publisher": "talia-agents",
   "license": "MIT",
   "dependencies": [
